@@ -52,7 +52,7 @@
     "prettier": "^2.2.1",
     "redis": "^3.1.2",
     "redis-v4": "npm:redis@^4.6.5",
-    "socket.io": "^4.5.2",
+    "socket.io": "^4.8.1",
     "socket.io-client": "^4.5.2",
     "socket.io-v3": "npm:socket.io@^3.1.2",
     "ts-node": "^10.9.1",
