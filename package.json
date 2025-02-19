@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/TernSecure/realtime-admin-ui#readme",
   "dependencies": {
-    "@types/bcryptjs": "^2.4.2",
+    "@types/bcryptjs": "^2.4.6",
     "bcryptjs": "^2.4.3",
     "debug": "^4.3.4"
   },
